@@ -118,6 +118,23 @@
     font-weight: 500;
     margin-top: 80px;
   }
+  .edu1:hover {
+    transform: scale(1.05);
+    transition: 0.1s;
+    color:red;
+  }
+  .edu2:hover {
+    transform: scale(1.05);
+    transition: 0.1s;
+    color:red;
+
+    
+  }
+  .edu3:hover {
+    transform: scale(1.05);
+    transition: 0.1s;
+    color: red;
+  }
   
   @media (max-width: 768px) {
     .about {

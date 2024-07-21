@@ -25,7 +25,7 @@ const mywork_data = [
         w_no: 4,
         w_name: "Web design",
         w_img: shoes_img,
-        w_link: 'https://github.com/abhi8008-cyber/Shoe-Store'
+        w_link: 'https://shoe-store-red.vercel.app/'
     },
     {
         w_no: 5,
